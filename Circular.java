@@ -82,6 +82,9 @@ public class Circular <T> {
         list.deleteAtfirst();
         list.deleteAtEnd();
         list.display();
+        Circular<String> list1=new Circular<>();
+        list1.insertStart("sabareesh");
+        list1.display();
 
     }
 }
