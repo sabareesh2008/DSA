@@ -43,6 +43,8 @@ class Double{
             temp=temp.next;
          }
          temp.next=newNode;
+         newNode.prev=temp;
+       
     }
     void delete(int data){
         Node temp=head;
@@ -99,6 +101,7 @@ class Double{
         list.insertbeg(1);
         list.insertbeg(2);
         list.insertbeg(3);
+        list.insertIndex(2,2);
         list.search(1);
         System.out.println("Search: ");
         list.display();
