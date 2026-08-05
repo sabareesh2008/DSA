@@ -40,8 +40,9 @@ public class postfix{
         return postfix;
     }
     public static void main(String[] args){
-        String infix="(A+B)*C- (D-E)*(F+G)";
+        String infix="(A+B)*C";
         StringBuilder res = postfix(infix);
+        res.reverse();
         System.out.println(res);
     }
     
