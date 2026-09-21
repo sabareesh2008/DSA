@@ -71,7 +71,7 @@ public class Polynomial_add {
         p1.insertAtEnd(2,2 );
         p1.insertAtEnd(6, 1);
 
-        Polynomial_add p2=new Polynomial_add();//8x^2 + 5x + a
+        Polynomial_add p2=new Polynomial_add();//8x^2 + 5x + 1
         p2.insertAtEnd(8,2);
         p2.insertAtEnd(5, 1);
         p2.insertAtEnd(1, 0);

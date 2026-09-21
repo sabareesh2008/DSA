@@ -1,6 +1,5 @@
 
 import java.util.Stack;
-import javax.swing.text.Position;
 
 public class postfix{
     public static int precedence(char p){
@@ -40,9 +39,9 @@ public class postfix{
         return postfix;
     }
     public static void main(String[] args){
-        String infix="(A+B)*C";
+        String infix=" A+B*C-D";
         StringBuilder res = postfix(infix);
-        res.reverse();
+       
         System.out.println(res);
     }
     
