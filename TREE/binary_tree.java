@@ -53,6 +53,14 @@ public class binary_tree {
         postOrder(root.right);
         System.out.print(root.data+" ");
     }
+
+    static Node LCA(Node root,Node p,Node q){
+        if(root==null || root==p || root==q){
+            return root;
+        }
+        Node left=LCA(root, p, q);
+        Node right = LCA(root., p, q)
+    }
     public static void main(String[] args) {
 
         binary_tree tree = new binary_tree(1);
