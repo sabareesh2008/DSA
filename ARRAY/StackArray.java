@@ -13,9 +13,11 @@ public class StackArray{
         stack[++top]=data;
     }
     int pop(){
+        if(top==-1) return -1;
         return stack[top--];
     }
     int peek(){
+        if(top==-1) return -1;
         return stack[top];
     }
     int isEmpty(){
@@ -26,11 +28,7 @@ public class StackArray{
     }
     public static void main(String[] args) {
         StackArray stack = new StackArray();
-        stack.push(5);
-        stack.push(7);
-        stack.push(10);
-        stack.push(18);
-        stack.push(23);
+       
         System.out.println(stack.pop());
         System.out.println(stack.isEmpty());
         System.out.println(stack.peek());
