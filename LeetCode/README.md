@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/santhiya0202?theme=tokyonight&show=graph,recent&v=1795713251707" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/santhiya0202?theme=tokyonight&show=graph,recent&v=1795713713947" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -41,6 +41,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
 | 292 | [Nim Game](./Math/Nim%20Game/) | Easy |
+| 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 
 </details>
 

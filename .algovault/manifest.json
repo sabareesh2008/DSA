@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-26T17:14:11.678Z",
+  "lastUpdated": "2026-11-26T17:21:53.913Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -121,6 +121,25 @@
               "runtime": "0 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/Math/Nim Game/"
+            }
+          }
+        },
+        "fizz-buzz": {
+          "questionId": "412",
+          "title": "Fizz Buzz",
+          "titleSlug": "fizz-buzz",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1795713713913,
+              "runtime": "1 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Math/Fizz Buzz/"
             }
           }
         }
