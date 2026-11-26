@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-26T04:27:27.885Z",
+  "lastUpdated": "2026-11-26T16:59:24.641Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -38,6 +38,26 @@
               "runtime": "4 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Vowels of a String/"
+            }
+          }
+        },
+        "happy-number": {
+          "questionId": "202",
+          "title": "Happy Number",
+          "titleSlug": "happy-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "Two Pointers",
+            "Floyd's Cycle Finding Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1795712364641,
+              "runtime": "1 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Hash Table/Happy Number/"
             }
           }
         }
