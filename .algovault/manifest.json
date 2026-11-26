@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-26T04:04:32.787Z",
+  "lastUpdated": "2026-11-26T04:27:27.885Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -20,6 +20,24 @@
               "runtime": "4 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Hash Table/Valid Anagram/"
+            }
+          }
+        },
+        "reverse-vowels-of-a-string": {
+          "questionId": "345",
+          "title": "Reverse Vowels of a String",
+          "titleSlug": "reverse-vowels-of-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1795667247885,
+              "runtime": "4 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Vowels of a String/"
             }
           }
         }
