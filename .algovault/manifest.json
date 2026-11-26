@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-26T17:12:30.033Z",
+  "lastUpdated": "2026-11-26T17:14:11.678Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -99,6 +99,28 @@
               "runtime": "0 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Missing Number/"
+            }
+          }
+        },
+        "nim-game": {
+          "questionId": "292",
+          "title": "Nim Game",
+          "titleSlug": "nim-game",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Brainteaser",
+            "Minimax",
+            "Game Theory",
+            "Nim Game",
+            "Impartial Game"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1795713251678,
+              "runtime": "0 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Math/Nim Game/"
             }
           }
         }
