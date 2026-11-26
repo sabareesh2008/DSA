@@ -4,10 +4,21 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/santhiya0202?theme=tokyonight&show=graph,recent&v=1795712821133" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/santhiya0202?theme=tokyonight&show=graph,recent&v=1795713150068" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
+
+
+### Array
+<details>
+<summary>Click to expand Array problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
+
+</details>
 
 
 ### Hash Table

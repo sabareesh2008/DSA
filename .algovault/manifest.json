@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-26T17:07:01.044Z",
+  "lastUpdated": "2026-11-26T17:12:30.033Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -77,6 +77,28 @@
               "runtime": "2 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Math/Add Digits/"
+            }
+          }
+        },
+        "missing-number": {
+          "questionId": "268",
+          "title": "Missing Number",
+          "titleSlug": "missing-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Binary Search",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1795713150033,
+              "runtime": "0 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Missing Number/"
             }
           }
         }
