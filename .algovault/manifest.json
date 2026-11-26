@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-26T16:59:24.641Z",
+  "lastUpdated": "2026-11-26T17:07:01.044Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -58,6 +58,25 @@
               "runtime": "1 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Hash Table/Happy Number/"
+            }
+          }
+        },
+        "add-digits": {
+          "questionId": "258",
+          "title": "Add Digits",
+          "titleSlug": "add-digits",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1795712821044,
+              "runtime": "2 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Math/Add Digits/"
             }
           }
         }
