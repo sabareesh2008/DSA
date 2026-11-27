@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-11-26T17:21:53.913Z",
+  "lastUpdated": "2026-11-27T15:13:34.496Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -140,6 +140,25 @@
               "runtime": "1 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Math/Fizz Buzz/"
+            }
+          }
+        },
+        "contains-duplicate": {
+          "questionId": "217",
+          "title": "Contains Duplicate",
+          "titleSlug": "contains-duplicate",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1795792414496,
+              "runtime": "19 ms",
+              "memory": "107.7 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate/"
             }
           }
         }
